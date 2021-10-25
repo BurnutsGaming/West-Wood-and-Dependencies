@@ -1,0 +1,46 @@
+[
+	{
+		"name": "West Wood",
+		"adjective": ["West Wood Siberian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "We won't allow war in this village, not even the illagers.",
+		"attacked": "They are now fighting us. Hurry up before we get taken.",
+		"defeated": "We have now been taken. What do you want us to do?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [190,150,255],
+		"cities": ["West Wood Village"]
+	},
+	{
+		"name": "Penland",
+		"leaderName": "Xinuz Gerald Ghast",
+		"adjective": ["Penlander"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Were here in this world. ",
+		"startIntroPart2": "It's our responsibility to make the world a better place.",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "Hello their.",
+		"neutralLetsHearIt": "What is it?",
+		"neutralNo": "No sorry, we don't want.",
+		"neutralYes": "Yes we want.",
+
+		"hateHello": "What do you want from us? Raid you cities?",
+		"hateLetsHearIt": "Come on, what is it?",
+		"hateNo": "NO! We hate you!",
+		"hateYes": "Yes, but we hate Illagers, Carminite ghast, and even you!",
+		
+		"afterPeace": "We are getting tired of fighting. Let's stop now.",
+		"tradeRequest": "What do you want to offer to us?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Arico Village Hive"]
+	}
+]
